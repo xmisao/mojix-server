@@ -4,6 +4,8 @@ Microservice-oriented [kuromoji](https://github.com/atilika/kuromoji) gRPC serve
 
 ## Usage
 
+Docker image [xmisao/mojix](https://hub.docker.com/r/xmisao/mojix/) is available.
+
 ```sh
 docker run -it --rm -p 9661:9661 xmisao/mojix
 ```
